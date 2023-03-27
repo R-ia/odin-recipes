@@ -1,2 +1,3 @@
 # odin-recipes
-this website contains some recipes.
+this website contains some recipes. 
+(basic html)
